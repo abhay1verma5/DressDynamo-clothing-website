@@ -1,12 +1,12 @@
 ﻿# grull_assignment
 # -------------follow step wise-------
-###`git clone https://github.com/abhay1verma5/grull_assignment.git`
+### `git clone https://github.com/abhay1verma5/grull_assignment.git`
 
-###`cd grull_assignment`
+### `cd grull_assignment`
 
-###`npm install`
+### `npm install`
 
-###`npm start`
+### `npm start`
 
 #--------------------------
 
